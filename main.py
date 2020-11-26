@@ -1,4 +1,4 @@
-listToSort = [8,7,6,5,4,3,2,1]
+listToSort = [3,6,9,7,1,3,2,6]
 z = len(listToSort)
 
 for probeer in range(z):
@@ -8,5 +8,3 @@ for probeer in range(z):
        listToSort[j], listToSort[j + 1] = listToSort[j + 1], listToSort[j]
 
 print(listToSort)
-
-yes
