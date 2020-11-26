@@ -8,3 +8,5 @@ for probeer in range(z):
        listToSort[j], listToSort[j + 1] = listToSort[j + 1], listToSort[j]
 
 print(listToSort)
+
+yes
